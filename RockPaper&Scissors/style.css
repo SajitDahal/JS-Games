@@ -1,0 +1,27 @@
+*{
+    margin: 5px auto;
+    text-align: center;
+}
+button{
+    height: 50px;
+    width: 100px;
+    font-size: 20px;
+    border-radius: 5px;
+    background-color: black;
+    color: white;
+}
+.section{
+    width: 30%;
+    padding: 15px;
+    border-style: inset;
+    border-color: black;
+    border-width: 5px;
+    border-radius: 5px;
+    background-color: blue;
+    color: white;
+   
+
+    
+    
+
+}
