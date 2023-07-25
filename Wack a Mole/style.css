@@ -1,0 +1,31 @@
+.headings {
+  display: flex;
+  border: 2px solid;
+  justify-content: space-between;
+  text-align: center;
+  width: 605px;
+  background-color: black;
+  color: white;
+  margin-bottom: 15px;
+  font-family: "Times New Roman", Times, serif;
+}
+.headings h2 {
+  font-size: 35px;
+}
+
+.grid {
+  width: 606px;
+  height: 606px;
+  display: flex;
+  flex-wrap: wrap;
+}
+.squares {
+  width: 200px;
+  height: 200px;
+  border: 1px solid black;
+}
+
+.mole {
+  background-image: url("images/mole.png");
+  background-size: cover;
+}
