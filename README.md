@@ -1,5 +1,6 @@
 # JS-Games
 Rock-Paper-Scissors games screenshots
+![Screenshot 2023-07-25 112715](https://github.com/SajitDahal/JS-Games/assets/112318789/b8eacd41-829b-467c-975a-bb21d4d568da)
 
 Snake game Screenshots
 Wac-A-Mole game Screenshots
